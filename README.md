@@ -1,5 +1,5 @@
 # JSML
-Machine Learning Algorithms in Javascript
+Machine Learning Algorithms in Javascript. 
 
 ## Introduction
 This is a project to translate common machine learning algorithms into Javascript. The purpose of this is to fully learn and understand these algorithms for my personal use. I will make them available here for anyone who may also be interested.
